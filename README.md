@@ -46,7 +46,7 @@ Utilize a IDE de sua preferência para realizar o trabalho.<br>
 Faça os algoritmos em ***Java***.<br>
 Utilize o conceito de ***Abstração da POO*** para realizar o exercício.
 
-# Nome dos participantes/questões feitas por eles:
+# Nome dos participantes:
 
 Daniela Teixeira Abreu
 RA: 4231923259
